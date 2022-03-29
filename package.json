@@ -1,5 +1,5 @@
 {
-  "name": "@howdyzak/ckeditor5-build-classic",
+  "name": "ckeditor5-build-classic-math",
   "version": "33.0.0",
   "description": "The classic editor build of CKEditor 5 with math module – the best browser-based rich text editor.",
   "keywords": [
